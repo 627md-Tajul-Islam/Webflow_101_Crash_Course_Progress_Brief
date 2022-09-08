@@ -2,53 +2,61 @@ Today i have learned about the different toolbar
 
 Left Toolbar:
 
-With the webflow icon there are 3 options.
-1/ Dashboard (we can look all of our website lists)
-2/ Project Settings(We can see the domain ,subdomain and many other details)
-3/ Editor(we can publish and edit the site)
+1/With the webflow icon there are 3 options.
+i) Dashboard (we can look all of our website lists)
+ii) Project Settings(We can see the domain ,subdomain and many other details)
+iii) Editor(we can publish and edit the site)
 
-With the + icon we can add sections,elements and basic layouts
+2/With the + icon we can add sections,elements and basic layouts
 
-In the third option we can create new symbols
+3/ we can create new symbols
 
-in the 4th option we can navigate through our sections
+4/ we can navigate through our sections
 
-in the 5th option we can see how many pages we have now
+5/ we can see how many pages we have now
 
-in the 6th, we can see CMS collection
+6/, we can see CMS collection
 
-in the 7th, we can use websites as e-commerce
+7/ we can use websites as e-commerce
 
-in the 8th, we can add pictures and assets
+8/ we can add pictures and assets
 
-in the 9th, we can see the settings 
+9/ we can see the settings 
 
-in the bottom left 
+In the bottom
 
-1st option is audit
-2nd option is to search anything 
-3rd one is webflow video tutorial
-4th one is help and feedback
+1/ audit
+2/ search anything 
+3/ webflow video tutorial
+4/ help and feedback
 
 Top Toolbar:
-webflow icon
+1/webflow icon
 
-page navigation
+2/page navigation
 
-preview option
+3/preview option
 
-three dot is used to add breakpoints
+4/three dot is used to add breakpoints
 
-device breakpoints options available
+5/device breakpoints options available
 
-we can set the canvas height width 
+6/we can set the canvas height width 
 
-we can undo our previous actions 
+7/we can undo our previous actions 
 
-we can export our code 
+8/we can export our code 
 
-we can share project link
+9/we can share project link
 
-we can publish our project with few clicks
+10/we can publish our project with few clicks
 
 Left Toolbar:
+
+1/ style-bar that we can use to style anything
+
+2/ settings we can for adding anything custom
+
+3/ style manager 
+
+4/ animation trigger
