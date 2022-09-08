@@ -29,3 +29,26 @@ in the bottom left
 2nd option is to search anything 
 3rd one is webflow video tutorial
 4th one is help and feedback
+
+Top Toolbar:
+webflow icon
+
+page navigation
+
+preview option
+
+three dot is used to add breakpoints
+
+device breakpoints options available
+
+we can set the canvas height width 
+
+we can undo our previous actions 
+
+we can export our code 
+
+we can share project link
+
+we can publish our project with few clicks
+
+Left Toolbar:
