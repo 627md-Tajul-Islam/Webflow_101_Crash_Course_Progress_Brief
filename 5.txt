@@ -1,0 +1,7 @@
+# Navigator panel
+
+1/ selection - we can select the element and can change them'
+
+2/ hierarchy - just like a tree 
+
+3/ movement - we can freely move them from one place to another
