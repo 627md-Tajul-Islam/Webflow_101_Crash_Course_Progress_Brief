@@ -1,0 +1,1 @@
+the box model means box under boxes. it means the box model theory treats every element as boxes 
