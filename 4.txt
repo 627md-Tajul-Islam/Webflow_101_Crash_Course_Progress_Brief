@@ -1,3 +1,6 @@
 # Element Hierarchy
-The definition of hierarchy is a group of people or things arranged in order of rank or the people that rank at the top of such a system.
+1/ Nesting
+2/ Text styling
+3/ sizing
 
+The definition of hierarchy is a group of people or things arranged in order of rank or the people that rank at the top of such a system.
